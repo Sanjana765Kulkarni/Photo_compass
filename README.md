@@ -84,12 +84,3 @@ PhotoCompass-2/
 - Backend builds to `dist/`
 - Express serves both API and static frontend
 
-## License
-
-MIT
-
----
-
-**Preferred communication style:** Simple, everyday language.
-
-For more details, see [replit.md](replit.md)
